@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/173129/testing/_apis/build/status/khushboo-meherwal.pipelines-java?branchName=master)](https://dev.azure.com/173129/testing/_build/latest?definitionId=9&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
